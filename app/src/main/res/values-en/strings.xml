@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="new_contact">New Contact</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="hint_contact_phonenumber">Phone number</string>
+    <string name="btn_dialog_save">Save</string>
+    <string name="btn_dialog_cancel">Cancel</string>
+</resources>
