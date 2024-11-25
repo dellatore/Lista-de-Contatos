@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "br.edu.ifsp.dmo1.listadecontatos"
-    compileSdk = 34
+    compileSdk = 35
 
     viewBinding {
         enable = true
